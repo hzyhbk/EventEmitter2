@@ -1,5 +1,5 @@
 {
-  "name": "eventemitter2",
+  "name": "eventemitter2-cjs",
   "version": "6.4.9",
   "description": "A feature-rich Node.js event emitter implementation with namespaces, wildcards, TTL, async listeners and browser/worker support.",
   "keywords": [
